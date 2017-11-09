@@ -1,2 +1,2 @@
-# taxon-website
-TaxOn Website
+# Taxon Promotional Webiste
+http://taxonapp.com/
